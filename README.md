@@ -1,2 +1,2 @@
 # tt17summer
-Practise
+Practice
